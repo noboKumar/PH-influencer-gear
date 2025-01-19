@@ -184,6 +184,9 @@ hr {
   gap: 96px;
   margin-top: 174px;
 }
+.feature-img img{
+  width: 100%;
+}
 .feature-content h1 {
   color: rgb(10, 8, 38);
   font-size: 2.375rem;
